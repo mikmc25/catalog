@@ -13,6 +13,8 @@
     }
   ],
   "env": {
+    "LOG_LEVEL": "info",
+    "LOG_DIRECTORY": "/tmp",
     "REDIS_HOST": "relaxing-flea-30894.upstash.io",
     "REDIS_PORT": "6379",
     "REDIS_PASSWORD": "AXiuAAIncDFlOThmNWMzMTFhMjY0N2YwYmEyN2NkOGU1MWVmYmRmYnAxMzA4OTQ",
@@ -34,7 +36,6 @@
     "PREFETCH_PAGE_COUNT": "5",
     "CACHE_CATALOG_CONTENT_DURATION_DAYS": "3",
     "CACHE_POSTER_CONTENT_DURATION_DAYS": "7",
-    "LOG_LEVEL": "info",
     "LOG_INTERVAL_DELETION": "3d",
     "NODE_ENV": "production",
     "POSTGRES_URL": "postgres://postgres.dggjgkpnxgzhvdywpicj:f0BHmzlQOrMX5DOm@aws-0-eu-west-2.pooler.supabase.com:6543/postgres?sslmode=require&supa=base-pooler.x",
