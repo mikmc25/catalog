@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 3
+    },
+    "auditLog": "/home/bb/Desktop/catalogs-main/log/.b719245ac556fb74b4abba6e7c24aa4cadc2474f-audit.json",
+    "files": [
+        {
+            "date": 1736205459286,
+            "name": "/home/bb/Desktop/catalogs-main/log/application-2025-01-06.log",
+            "hash": "5eae9acf84b80d636f63fecf5e8b710e105c603fc5a51185bfa25dc22a564580"
+        }
+    ],
+    "hashType": "sha256"
+}

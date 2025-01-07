@@ -1,0 +1,15 @@
+[2025-01-06 23:17:39] [ERROR]: Error executing query
+[2025-01-06 23:22:11] [INFO]: Database connection successful
+[2025-01-06 23:22:11] [INFO]: Server running on port 7000 - Environment: production
+[2025-01-06 23:22:32] [INFO]: --- Request received ---
+[2025-01-06 23:22:32] [INFO]: GET /
+[2025-01-06 23:22:32] [INFO]: Redirecting to /configure
+[2025-01-06 23:22:32] [INFO]: --- Request received ---
+[2025-01-06 23:22:32] [INFO]: GET /configure
+[2025-01-06 23:22:32] [INFO]: Sending public/configure.html
+[2025-01-06 23:22:33] [INFO]: --- Request received ---
+[2025-01-06 23:22:33] [INFO]: GET /env
+[2025-01-06 23:22:33] [INFO]: Sending environment variable TRAKT_CLIENT_ID to client
+[2025-01-06 23:22:44] [INFO]: --- Request received ---
+[2025-01-06 23:22:44] [INFO]: POST /fetch-providers
+[2025-01-06 23:22:44] [INFO]: Providers fetched from the database (less than 24 hours old).
